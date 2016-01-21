@@ -1,2 +1,2 @@
 # PowerBI Custom Visualization
-This repository hold the PowerBI Custom Visualization created by MAQ Software.
+This repository holds the PowerBI Custom Visualization created by MAQ Software.
