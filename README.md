@@ -8,9 +8,11 @@ A gallery of visuals created by the **MAQ Software**. Browse through the visuals
 ---------------
  -  We are working on adding a working solution for developers to run the visuals locally on their machine.
  - 2 new visuals are in the pipeline
+
 #Questions, Issues and Feedback
 -------------
 Having trouble with Custom Visuals? Check-out Issues and if you don't see your issue, please open an issue in [GitHub](https://github.com/maqsoftware/powerbi-custom-visualization/issues).
+
 #License 
 -------------
 **MAQ Software** Custom Visual code is licensed as per [Microsoft Custom Visual License](http://go.microsoft.com/fwlink/?LinkID=627540)
